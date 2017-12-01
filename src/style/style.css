@@ -1,3 +1,15 @@
+body {
+    margin: 0;
+}
+
 .home_header {
-    background-color: #9B51E0; 
+    background-color: #9B51E0;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 15px solid #BB6BD9;
+    height: 175px;
+}
+.home_header-logo {
+    margin-left: 30px;
+    margin-top: 30px;    
 }
